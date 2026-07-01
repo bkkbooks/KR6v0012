@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6v0012/zw/v1/juan/0
+seq: 0
+front:
+  text: 佛說水月光觀音菩薩經整理者方廣錩題解佛說水月光觀音菩薩經又名水月觀音經中國人所撰佛經作者不詳一卷本經內容為向觀音發願以求救度對研究我國觀音崇拜的流傳及其形態有一定的價值本經未為我國歷代經錄所載故亦不為歷代大藏經所收現在敦煌遺書中發現一號收藏於中國天津藝術博物館編號為號整理本以天津藝術博物館藏本為底本無校本錄文
+  hash: sha256:df7af8542090e0dac59ddee4b4324f56dc4237d752e6489580df6c22f639e331
+  markers:
+  - {type: 其他, offset: 0, content: 題解, id: KR6v0012_ZW_000-mulu-1, level: '1'}
+  - {type: 其他, offset: 153, content: 錄文, id: KR6v0012_ZW_000-mulu-2, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說水月光觀音菩薩經
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW01/ZW01n0011.xml
+    old_id: ZW01n0011
+hash: sha256:834000109b2091fe4f783ff0d850f43b4b6132246e977ea28b5249e5fa56cdf2

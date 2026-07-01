@@ -1,0 +1,70 @@
+canonical_identifier: bkk:krp/KR6v0012/v1
+canonical_location: https://kanripo.org/bkk/KR6v0012/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說水月光觀音菩薩經
+  identifiers:
+    alt_id:
+    - W01n0011
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW01/ZW01n0011.xml
+    old_id: ZW01n0011
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0012_000.yaml, hash: 'sha256:6395b708f87bc5d8f1fc70c7c26b886244f97d325c1cc1fc2aa98ae711b66257'}
+  - {seq: 1, filename: KR6v0012_001.yaml, hash: 'sha256:e8fcbfbbc7287f99bcdf138f595825f22bbdfc079b3fd888bdc1f6496cd4cbc1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0012_000.markers.yaml, hash: 'sha256:254bbdb850a36272d9b5cdeb6f3c3d521342b9efa622e5d9ed5a4403587f0329'}
+  - {seq: 1, role: markers, filename: assets/KR6v0012_001.markers.yaml, hash: 'sha256:5896eef9cff7654b1a8e49de384cdfef8e7b6f5b22a1aca03880cf3c3cb93d8b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0012_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0012_ZW_000-mulu-2
+    span:
+    - front
+    - 153
+    - 153
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0012_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 1794
+  label: 佛說水月光觀音菩薩經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0012_ZW_001-mulu-1
+    span:
+    - body
+    - 296
+    - 296
+  label: 附：關於《佛說水月光觀音菩薩經》
+  type: mulu
+  level: 1
+hash: sha256:0020da6422c06a55dd6363148e2d0d2e6cd5e22ec045252056adb4634b51e658
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: ZW
