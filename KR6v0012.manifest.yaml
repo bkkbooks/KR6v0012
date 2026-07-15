@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0012/v1
 canonical_location: https://kanripo.org/bkk/KR6v0012/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說水月光觀音菩薩經
   identifiers:
@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0012_000.yaml, hash: 'sha256:834000109b2091fe4f783ff0d850f43b4b6132246e977ea28b5249e5fa56cdf2'}
-  - {seq: 1, filename: KR6v0012_001.yaml, hash: 'sha256:6f6e68f363c65a789b313c3c9b0bbb53b0d13cb7b8a53ce2e633bb4e878a4c5c'}
+  - {seq: 0, filename: KR6v0012_000.yaml, hash: 'sha256:d96ccc14b4b161bb138d9b301341b2b30bf23407d0eed8db3502ecdd5a9e2c23'}
+  - {seq: 1, filename: KR6v0012_001.yaml, hash: 'sha256:419ddfaff19ecc777cac9aa5d83fcad6243ef53332d26815d202682eb304d8f8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0012_000.markers.yaml, hash: 'sha256:5f7df5caa3862dfb6e2d2ee5197c1a9f5fdafa1688d78badb65e01ed4f37cc80'}
-  - {seq: 1, role: markers, filename: assets/KR6v0012_001.markers.yaml, hash: 'sha256:bf94d4df8fed24b5517007351e66eb7277b72047962ad9277d05d0d83340de8a'}
+  - {seq: 0, role: markers, filename: assets/KR6v0012_000.markers.yaml, hash: 'sha256:c00c46130c63dd304b939669ac776f30387959eb392b096a83df822222771629'}
+  - {seq: 1, role: markers, filename: assets/KR6v0012_001.markers.yaml, hash: 'sha256:c65ae5bc970a24f4e98615cb200a2f687e080b0b1ce49f7eac0c0ca628207401'}
 table_of_contents:
 - ref:
     seq: 0
@@ -62,6 +62,9 @@ table_of_contents:
   label: 附：關於《佛說水月光觀音菩薩經》
   type: mulu
   level: 1
-hash: sha256:49abb51bf10d52caa00e513de3ed6dcabc8b767dfe372e9980910674d2a0b0fc
+hash: sha256:bd4d34eb473257a7f6c8fc7b26ef48109ee99e5b65327fc26fd855b1e9043964
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
