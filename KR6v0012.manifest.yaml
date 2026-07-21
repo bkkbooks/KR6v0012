@@ -16,17 +16,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0012_000.yaml, hash: 'sha256:d96ccc14b4b161bb138d9b301341b2b30bf23407d0eed8db3502ecdd5a9e2c23'}
+  - {seq: 0, filename: KR6v0012_000.yaml, hash: 'sha256:474728a7fe471b650348c933e8c9e0219185feb665e4639594cb7e71f9764fe5'}
   - {seq: 1, filename: KR6v0012_001.yaml, hash: 'sha256:419ddfaff19ecc777cac9aa5d83fcad6243ef53332d26815d202682eb304d8f8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0012_000.markers.yaml, hash: 'sha256:c00c46130c63dd304b939669ac776f30387959eb392b096a83df822222771629'}
+  - {seq: 0, role: markers, filename: assets/KR6v0012_000.markers.yaml, hash: 'sha256:bf486f480418b523c504c37b72ae4581a96655722158af0242b781f88cbdfa97'}
   - {seq: 1, role: markers, filename: assets/KR6v0012_001.markers.yaml, hash: 'sha256:c65ae5bc970a24f4e98615cb200a2f687e080b0b1ce49f7eac0c0ca628207401'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0012_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0012_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 153
     - 153
   label: 錄文
@@ -62,7 +62,7 @@ table_of_contents:
   label: 附：關於《佛說水月光觀音菩薩經》
   type: mulu
   level: 1
-hash: sha256:bd4d34eb473257a7f6c8fc7b26ef48109ee99e5b65327fc26fd855b1e9043964
+hash: sha256:4c2f5cfd3bc05c4621694bd2633cad31eb6238f2466398dbaf2ad4573f5a564f
 editions:
 - short: ZW
 mappings:
